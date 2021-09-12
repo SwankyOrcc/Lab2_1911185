@@ -24,7 +24,7 @@ namespace Lab2_1911185
 
 		private void btnCancel_Click(object sender, EventArgs e)
 		{
-			this.Reset();
+			this.Reset(); 
 		}
 
 		private void Reset()
